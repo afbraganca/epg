@@ -1,0 +1,294 @@
+﻿#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="COVID-19" tvg-logo="http://185.141.61.130/logostv/rainbow.png" group-title="PORTUGAL",COVID-19
+http://burralb.xyz:8080/amibra/braami/9212
+#EXTINF:-1 tvg-id="rtp1.pt" tvg-name="RTP 1 [FHD]" tvg-logo="http://185.141.61.130/logostv/rtp1-hd.png" group-title="PORTUGAL",RTP 1 [FHD]
+http://burralb.xyz:8080/amibra/braami/1106
+#EXTINF:-1 tvg-id="rtp1.pt" tvg-name="RTP 1" tvg-logo="http://185.141.61.130/logostv/rtp1-hd.png" group-title="PORTUGAL",RTP 1
+http://burralb.xyz:8080/amibra/braami/28
+#EXTINF:-1 tvg-id="rtp2.pt" tvg-name="RTP 2 [FHD]" tvg-logo="http://185.141.61.130/logostv/rtp-2.png" group-title="PORTUGAL",RTP 2 [FHD]
+http://burralb.xyz:8080/amibra/braami/31
+#EXTINF:-1 tvg-id="rtp2.pt" tvg-name="RTP 2" tvg-logo="http://185.141.61.130/logostv/rtp-2.png" group-title="PORTUGAL",RTP 2
+http://burralb.xyz:8080/amibra/braami/30
+#EXTINF:-1 tvg-id="sic.pt" tvg-name="SIC [FHD]" tvg-logo="http://185.141.61.130/logostv/sic-hd.png" group-title="PORTUGAL",SIC [FHD]
+http://burralb.xyz:8080/amibra/braami/33
+#EXTINF:-1 tvg-id="sic.pt" tvg-name="SIC" tvg-logo="http://185.141.61.130/logostv/sic-hd.png" group-title="PORTUGAL",SIC
+http://burralb.xyz:8080/amibra/braami/2067
+#EXTINF:-1 tvg-id="tvi.pt" tvg-name="TVI [FHD]" tvg-logo="http://185.141.61.130/logostv/tvi.png" group-title="PORTUGAL",TVI [FHD]
+http://burralb.xyz:8080/amibra/braami/35
+#EXTINF:-1 tvg-id="tvi.pt" tvg-name="TVI" tvg-logo="http://185.141.61.130/logostv/tvi.png" group-title="PORTUGAL",TVI
+http://burralb.xyz:8080/amibra/braami/34
+#EXTINF:-1 tvg-id="sicnoticias.pt" tvg-name="SIC NOTICIAS FHD" tvg-logo="http://185.141.61.130/logostv/sic-noticias-hd.png" group-title="PORTUGAL",SIC NOTICIAS FHD
+http://burralb.xyz:8080/amibra/braami/37
+#EXTINF:-1 tvg-id="sicnoticias.pt" tvg-name="SIC NOTICIAS" tvg-logo="http://185.141.61.130/logostv/sic-noticias-hd.png" group-title="PORTUGAL",SIC NOTICIAS
+http://burralb.xyz:8080/amibra/braami/36
+#EXTINF:-1 tvg-id="cmtv.pt" tvg-name="CMTV-FHD" tvg-logo="http://185.141.61.130/logostv/cmtv-hd.png" group-title="PORTUGAL",CMTV-FHD
+http://burralb.xyz:8080/amibra/braami/39
+#EXTINF:-1 tvg-id="cmtv.pt" tvg-name="CMTV" tvg-logo="http://185.141.61.130/logostv/cmtv-hd.png" group-title="PORTUGAL",CMTV
+http://burralb.xyz:8080/amibra/braami/38
+#EXTINF:-1 tvg-id="rtp3.pt" tvg-name="RTP 3" tvg-logo="http://185.141.61.130/logostv/rtp-3.png" group-title="PORTUGAL",RTP 3
+http://burralb.xyz:8080/amibra/braami/152
+#EXTINF:-1 tvg-id="tvi24.pt" tvg-name="TVI 24" tvg-logo="http://185.141.61.130/logostv/tvi24.png" group-title="PORTUGAL",TVI 24
+http://burralb.xyz:8080/amibra/braami/40
+#EXTINF:-1 tvg-id="tvi24.pt" tvg-name="TVI 24-FHD" tvg-logo="http://185.141.61.130/logostv/tvi24.png" group-title="PORTUGAL",TVI 24-FHD
+http://burralb.xyz:8080/amibra/braami/41
+#EXTINF:-1 tvg-id="euronews.pt" tvg-name="EURONEWS" tvg-logo="http://185.141.61.130/logostv/euronews.png" group-title="PORTUGAL",EURONEWS
+http://burralb.xyz:8080/amibra/braami/902
+#EXTINF:-1 tvg-id="" tvg-name="CNN" tvg-logo="http://185.141.61.130/logostv/cnn.png" group-title="PORTUGAL",CNN
+http://burralb.xyz:8080/amibra/braami/903
+#EXTINF:-1 tvg-id="abolatv.pt" tvg-name="A BOLA TV" tvg-logo="http://185.141.61.130/logostv/a-bola-tv.png" group-title="PORTUGAL",A BOLA TV
+http://burralb.xyz:8080/amibra/braami/42
+#EXTINF:-1 tvg-id="abolatv.pt" tvg-name="A BOLA TV-HD" tvg-logo="http://185.141.61.130/logostv/a-bola-tv.png" group-title="PORTUGAL",A BOLA TV-HD
+http://burralb.xyz:8080/amibra/braami/43
+#EXTINF:-1 tvg-id="siccaras.pt" tvg-name="SIC CARAS-FHD" tvg-logo="http://185.141.61.130/logostv/sic-caras.png" group-title="PORTUGAL",SIC CARAS-FHD
+http://burralb.xyz:8080/amibra/braami/44
+#EXTINF:-1 tvg-id="sicmulher.pt" tvg-name="SIC MULHER FHD" tvg-logo="http://185.141.61.130/logostv/sic-mulher.png" group-title="PORTUGAL",SIC MULHER FHD
+http://burralb.xyz:8080/amibra/braami/45
+#EXTINF:-1 tvg-id="sicradical.pt" tvg-name="SIC RADICAL [FHD]" tvg-logo="http://185.141.61.130/logostv/sic-radical.png" group-title="PORTUGAL",SIC RADICAL [FHD]
+http://burralb.xyz:8080/amibra/braami/46
+#EXTINF:-1 tvg-id="artv.pt" tvg-name="ARTV" tvg-logo="http://185.141.61.130/logostv/artv.png" group-title="PORTUGAL",ARTV
+http://burralb.xyz:8080/amibra/braami/65
+#EXTINF:-1 tvg-id="globo.pt" tvg-name="GLOBO-FHD" tvg-logo="http://185.141.61.130/logostv/globo-hd.png" group-title="PORTUGAL",GLOBO-FHD
+http://burralb.xyz:8080/amibra/braami/47
+#EXTINF:-1 tvg-id="globonow.pt" tvg-name="GLOBO NOW [FHD]" tvg-logo="http://185.141.61.130/logostv/globo-now.png" group-title="PORTUGAL",GLOBO NOW [FHD]
+http://burralb.xyz:8080/amibra/braami/48
+#EXTINF:-1 tvg-id="recordtvhd.pt" tvg-name="TV RECORD" tvg-logo="http://185.141.61.130/logostv/tv-record.png" group-title="PORTUGAL",TV RECORD
+http://burralb.xyz:8080/amibra/braami/49
+#EXTINF:-1 tvg-id="recordtvhd.pt" tvg-name="TV RECORD-FHD" tvg-logo="http://185.141.61.130/logostv/tv-record.png" group-title="PORTUGAL",TV RECORD-FHD
+http://burralb.xyz:8080/amibra/braami/50
+#EXTINF:-1 tvg-id="tvificcao.pt" tvg-name="TVI FIÇCÃO" tvg-logo="http://185.141.61.130/logostv/tvi-ficcao.png" group-title="PORTUGAL",TVI FIÇCÃO
+http://burralb.xyz:8080/amibra/braami/51
+#EXTINF:-1 tvg-id="tvireality.pt" tvg-name="TVI REALITY" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/49/Tvi_reality.png" group-title="PORTUGAL",TVI REALITY
+http://burralb.xyz:8080/amibra/braami/52
+#EXTINF:-1 tvg-id="rtpacores.pt" tvg-name="RTP ACORES" tvg-logo="http://185.141.61.130/logostv/rtp-acores.png" group-title="PORTUGAL",RTP ACORES
+http://burralb.xyz:8080/amibra/braami/53
+#EXTINF:-1 tvg-id="rtpafrica.pt" tvg-name="RTP AFRICA" tvg-logo="http://185.141.61.130/logostv/rtp-africa.png" group-title="PORTUGAL",RTP AFRICA
+http://burralb.xyz:8080/amibra/braami/54
+#EXTINF:-1 tvg-id="rtpmadeira.pt" tvg-name="RTP MADEIRA" tvg-logo="http://185.141.61.130/logostv/rtp-madeira.png" group-title="PORTUGAL",RTP MADEIRA
+http://burralb.xyz:8080/amibra/braami/55
+#EXTINF:-1 tvg-id="rtpmemoria.pt" tvg-name="RTP MEMORIA" tvg-logo="http://185.141.61.130/logostv/rtp-memoria.png" group-title="PORTUGAL",RTP MEMORIA
+http://burralb.xyz:8080/amibra/braami/56
+#EXTINF:-1 tvg-id="cancaonova.pt" tvg-name="CANCAO NOVA" tvg-logo="http://185.141.61.130/logostv/cancao-nova.png" group-title="PORTUGAL",CANCAO NOVA
+http://burralb.xyz:8080/amibra/braami/894
+#EXTINF:-1 tvg-id="porto.pt" tvg-name="PORTO CANAL-FHD" tvg-logo="http://185.141.61.130/logostv/porto-canal-hd.png" group-title="PORTUGAL",PORTO CANAL-FHD
+http://burralb.xyz:8080/amibra/braami/57
+#EXTINF:-1 tvg-id="canalq.pt" tvg-name="CANAL Q" tvg-logo="http://185.141.61.130/logostv/canal-q-hd.png" group-title="PORTUGAL",CANAL Q
+http://burralb.xyz:8080/amibra/braami/58
+#EXTINF:-1 tvg-id="mycuisinehd.pt" tvg-name="MY CUISINE" tvg-logo="http://185.141.61.130/logostv/my-cuisine.png" group-title="PORTUGAL",MY CUISINE
+http://burralb.xyz:8080/amibra/braami/59
+#EXTINF:-1 tvg-id="24kitchen.pt" tvg-name="24 KITCHEN HD" tvg-logo="http://185.141.61.130/logostv/24-kitchen.png" group-title="PORTUGAL",24 KITCHEN HD
+http://burralb.xyz:8080/amibra/braami/60
+#EXTINF:-1 tvg-id="foodnetwork.pt" tvg-name="THE FOOD NETWORK-FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Food_Network_Logo.svg/1200px-Food_Network_Logo.svg.png" group-title="PORTUGAL",THE FOOD NETWORK-FHD
+http://burralb.xyz:8080/amibra/braami/61
+#EXTINF:-1 tvg-id="finelivingnetworkhd.pt" tvg-name="FINE LIVING NETWORK-FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FLN-logo.svg/300px-FLN-logo.svg.png" group-title="PORTUGAL",FINE LIVING NETWORK-FHD
+http://burralb.xyz:8080/amibra/braami/62
+#EXTINF:-1 tvg-id="travelchannel.pt" tvg-name="TRAVEL CHANNEL-FHD " tvg-logo="http://185.141.61.130/logostv/travel-channel-hd.png" group-title="PORTUGAL",TRAVEL CHANNEL-FHD 
+http://burralb.xyz:8080/amibra/braami/63
+#EXTINF:-1 tvg-id="eentertainment.pt" tvg-name="E! ENTERTAINMENT-FHD" tvg-logo="http://185.141.61.130/logostv/e-entertainment-hd.png" group-title="PORTUGAL",E! ENTERTAINMENT-FHD
+http://burralb.xyz:8080/amibra/braami/64
+#EXTINF:-1 tvg-id="" tvg-name="SAUDE FHD" tvg-logo="http://185.141.61.130/logostv/s-mais.png" group-title="PORTUGAL",SAUDE FHD
+http://burralb.xyz:8080/amibra/braami/66
+#EXTINF:-1 tvg-id="tlc.pt" tvg-name="TLC" tvg-logo="http://185.141.61.130/logostv/tlc.png" group-title="PORTUGAL",TLC
+http://burralb.xyz:8080/amibra/braami/67
+#EXTINF:-1 tvg-id="toros.pt" tvg-name="TOROS TV-HD" tvg-logo="http://185.141.61.130/logostv/toros-tv.png" group-title="PORTUGAL",TOROS TV-HD
+http://burralb.xyz:8080/amibra/braami/68
+#EXTINF:-1 tvg-id="" tvg-name="CAMPO PEQUENO" tvg-logo="http://185.141.61.130/logostv/campo_pequeno.png" group-title="PORTUGAL",CAMPO PEQUENO
+http://burralb.xyz:8080/amibra/braami/8672
+#EXTINF:-1 tvg-id="canal11.pt" tvg-name="CANAL 11" tvg-logo="http://185.141.61.130/logos/tv-net-voz-logo-canal-11-xs.png" group-title="PORTUGAL",CANAL 11
+http://burralb.xyz:8080/amibra/braami/69
+#EXTINF:-1 tvg-id="canal11.pt" tvg-name="CANAL 11-FHD" tvg-logo="http://185.141.61.130/logos/tv-net-voz-logo-canal-11-xs.png" group-title="PORTUGAL",CANAL 11-FHD
+http://burralb.xyz:8080/amibra/braami/70
+#EXTINF:-1 tvg-id="benficatv1.pt" tvg-name="BTV" tvg-logo="http://185.141.61.130/logostv/btv-hd.png" group-title="PORTUGAL",BTV
+http://burralb.xyz:8080/amibra/braami/71
+#EXTINF:-1 tvg-id="benficatv1.pt" tvg-name="BTV HD" tvg-logo="http://185.141.61.130/logostv/btv-hd.png" group-title="PORTUGAL",BTV HD
+http://burralb.xyz:8080/amibra/braami/72
+#EXTINF:-1 tvg-id="benficatv1.pt" tvg-name="BTV FHD" tvg-logo="http://185.141.61.130/logostv/btv-hd.png" group-title="PORTUGAL",BTV FHD
+http://burralb.xyz:8080/amibra/braami/73
+#EXTINF:-1 tvg-id="sportingtv.pt" tvg-name="SPORTING TV" tvg-logo="http://185.141.61.130/logostv/sporting-tv.png" group-title="PORTUGAL",SPORTING TV
+http://burralb.xyz:8080/amibra/braami/74
+#EXTINF:-1 tvg-id="sportingtv.pt" tvg-name="SPORTING FHD" tvg-logo="http://185.141.61.130/logostv/sporting-tv.png" group-title="PORTUGAL",SPORTING FHD
+http://burralb.xyz:8080/amibra/braami/75
+#EXTINF:-1 tvg-id="sporttvplus.pt" tvg-name="SPORT TV+" tvg-logo="http://185.141.61.130/logostv/sporttvhd.png" group-title="PORTUGAL",SPORT TV+
+http://burralb.xyz:8080/amibra/braami/76
+#EXTINF:-1 tvg-id="sporttvplus.pt" tvg-name="SPORT TV+ FHD" tvg-logo="http://185.141.61.130/logostv/sporttvhd.png" group-title="PORTUGAL",SPORT TV+ FHD
+http://burralb.xyz:8080/amibra/braami/77
+#EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="SPORT TV 1" tvg-logo="http://185.141.61.130/logostv/sport-tv1.png" group-title="PORTUGAL",SPORT TV 1
+http://burralb.xyz:8080/amibra/braami/78
+#EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="SPORT TV 1 HD" tvg-logo="http://185.141.61.130/logostv/sport-tv1.png" group-title="PORTUGAL",SPORT TV 1 HD
+http://burralb.xyz:8080/amibra/braami/79
+#EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="SPORT TV 1 FHD" tvg-logo="http://185.141.61.130/logostv/sport-tv1.png" group-title="PORTUGAL",SPORT TV 1 FHD
+http://burralb.xyz:8080/amibra/braami/80
+#EXTINF:-1 tvg-id="sporttv2.pt" tvg-name="SPORT TV 2" tvg-logo="http://185.141.61.130/logostv/sport-tv2.png" group-title="PORTUGAL",SPORT TV 2
+http://burralb.xyz:8080/amibra/braami/81
+#EXTINF:-1 tvg-id="sporttv2.pt" tvg-name="SPORT TV 2 HD" tvg-logo="http://185.141.61.130/logostv/sport-tv2.png" group-title="PORTUGAL",SPORT TV 2 HD
+http://burralb.xyz:8080/amibra/braami/82
+#EXTINF:-1 tvg-id="sporttv2.pt" tvg-name="SPORT TV 2 FHD" tvg-logo="http://185.141.61.130/logostv/sport-tv2.png" group-title="PORTUGAL",SPORT TV 2 FHD
+http://burralb.xyz:8080/amibra/braami/83
+#EXTINF:-1 tvg-id="sporttv3.pt" tvg-name="SPORT TV 3" tvg-logo="http://185.141.61.130/logostv/sport-tv3.png" group-title="PORTUGAL",SPORT TV 3
+http://burralb.xyz:8080/amibra/braami/84
+#EXTINF:-1 tvg-id="sporttv3.pt" tvg-name="SPORT TV 3 HD" tvg-logo="http://185.141.61.130/logostv/sport-tv3.png" group-title="PORTUGAL",SPORT TV 3 HD
+http://burralb.xyz:8080/amibra/braami/85
+#EXTINF:-1 tvg-id="sporttv3.pt" tvg-name="SPORT TV 3 FHD" tvg-logo="http://185.141.61.130/logostv/sport-tv3.png" group-title="PORTUGAL",SPORT TV 3 FHD
+http://burralb.xyz:8080/amibra/braami/86
+#EXTINF:-1 tvg-id="sporttv4.pt" tvg-name="SPORT TV 4" tvg-logo="http://185.141.61.130/logostv/sport-tv4.png" group-title="PORTUGAL",SPORT TV 4
+http://burralb.xyz:8080/amibra/braami/87
+#EXTINF:-1 tvg-id="sporttv4.pt" tvg-name="SPORT TV 4 FHD" tvg-logo="http://185.141.61.130/logostv/sport-tv4.png" group-title="PORTUGAL",SPORT TV 4 FHD
+http://burralb.xyz:8080/amibra/braami/88
+#EXTINF:-1 tvg-id="sporttv5.pt" tvg-name="SPORT TV 5" tvg-logo="http://185.141.61.130/logostv/sport-tv5.png" group-title="PORTUGAL",SPORT TV 5
+http://burralb.xyz:8080/amibra/braami/89
+#EXTINF:-1 tvg-id="sporttv5.pt" tvg-name="SPORT TV 5 FHD" tvg-logo="http://185.141.61.130/logostv/sport-tv5.png" group-title="PORTUGAL",SPORT TV 5 FHD
+http://burralb.xyz:8080/amibra/braami/90
+#EXTINF:-1 tvg-id="sporttvnba.pt" tvg-name="SPORT TV NBA FHD" tvg-logo="http://185.141.61.130/logostv/nba-tv.png" group-title="PORTUGAL",SPORT TV NBA FHD
+http://burralb.xyz:8080/amibra/braami/91
+#EXTINF:-1 tvg-id="elevensports1.pt" tvg-name="ELEVEN SPORTS 1" tvg-logo="http://185.141.61.130/logostv/canal-eleven-sports-1.png" group-title="PORTUGAL",ELEVEN SPORTS 1
+http://burralb.xyz:8080/amibra/braami/92
+#EXTINF:-1 tvg-id="elevensports1.pt" tvg-name="ELEVEN SPORTS 1 HD" tvg-logo="http://185.141.61.130/logostv/canal-eleven-sports-1.png" group-title="PORTUGAL",ELEVEN SPORTS 1 HD
+http://burralb.xyz:8080/amibra/braami/93
+#EXTINF:-1 tvg-id="elevensports1.pt" tvg-name="ELEVEN SPORTS 1 FHD" tvg-logo="http://185.141.61.130/logostv/canal-eleven-sports-1.png" group-title="PORTUGAL",ELEVEN SPORTS 1 FHD
+http://burralb.xyz:8080/amibra/braami/94
+#EXTINF:-1 tvg-id="elevensports2.pt" tvg-name="ELEVEN SPORTS 2" tvg-logo="http://185.141.61.130/logostv/canal-eleven-sports-2.png" group-title="PORTUGAL",ELEVEN SPORTS 2
+http://burralb.xyz:8080/amibra/braami/95
+#EXTINF:-1 tvg-id="elevensports2.pt" tvg-name="ELEVEN SPORTS 2 HD" tvg-logo="http://185.141.61.130/logostv/canal-eleven-sports-2.png" group-title="PORTUGAL",ELEVEN SPORTS 2 HD
+http://burralb.xyz:8080/amibra/braami/96
+#EXTINF:-1 tvg-id="elevensports2.pt" tvg-name="ELEVEN SPORTS 2 FHD" tvg-logo="http://185.141.61.130/logostv/canal-eleven-sports-2.png" group-title="PORTUGAL",ELEVEN SPORTS 2 FHD
+http://burralb.xyz:8080/amibra/braami/97
+#EXTINF:-1 tvg-id="elevensports3.pt" tvg-name="ELEVEN SPORTS 3" tvg-logo="http://185.141.61.130/logostv/canal-eleven-sports-3.png" group-title="PORTUGAL",ELEVEN SPORTS 3
+http://burralb.xyz:8080/amibra/braami/98
+#EXTINF:-1 tvg-id="elevensports3.pt" tvg-name="ELEVEN SPORTS 3 HD" tvg-logo="http://185.141.61.130/logostv/canal-eleven-sports-3.png" group-title="PORTUGAL",ELEVEN SPORTS 3 HD
+http://burralb.xyz:8080/amibra/braami/99
+#EXTINF:-1 tvg-id="elevensports3.pt" tvg-name="ELEVEN SPORTS 3 FHD" tvg-logo="http://185.141.61.130/logostv/canal-eleven-sports-3.png" group-title="PORTUGAL",ELEVEN SPORTS 3 FHD
+http://burralb.xyz:8080/amibra/braami/100
+#EXTINF:-1 tvg-id="elevensports4.pt" tvg-name="ELEVEN SPORTS 4 FHD" tvg-logo="http://185.141.61.130/logostv/canal-eleven-sports-4.png" group-title="PORTUGAL",ELEVEN SPORTS 4 FHD
+http://burralb.xyz:8080/amibra/braami/101
+#EXTINF:-1 tvg-id="elevensports5.pt" tvg-name="ELEVEN SPORTS 5 FHD" tvg-logo="http://185.141.61.130/logostv/canal-eleven-sports-5.png" group-title="PORTUGAL",ELEVEN SPORTS 5 FHD
+http://burralb.xyz:8080/amibra/braami/102
+#EXTINF:-1 tvg-id="elevensports6.pt" tvg-name="ELEVEN SPORTS 6 FHD" tvg-logo="http://185.141.61.130/logostv/canal-eleven-sports-6.png" group-title="PORTUGAL",ELEVEN SPORTS 6 FHD
+http://burralb.xyz:8080/amibra/braami/103
+#EXTINF:-1 tvg-id="eurosport1.pt" tvg-name="EUROSPORT 1" tvg-logo="http://185.141.61.130/logostv/eurosport1.png" group-title="PORTUGAL",EUROSPORT 1
+http://burralb.xyz:8080/amibra/braami/104
+#EXTINF:-1 tvg-id="eurosport1.pt" tvg-name="EUROSPORT 1 FHD" tvg-logo="http://185.141.61.130/logostv/eurosport1.png" group-title="PORTUGAL",EUROSPORT 1 FHD
+http://burralb.xyz:8080/amibra/braami/105
+#EXTINF:-1 tvg-id="eurosport2.pt" tvg-name="EUROSPORT 2" tvg-logo="http://185.141.61.130/logostv/eurosport-2-hd.png" group-title="PORTUGAL",EUROSPORT 2
+http://burralb.xyz:8080/amibra/braami/106
+#EXTINF:-1 tvg-id="fueltv.pt" tvg-name="FUEL TV FHD" tvg-logo="http://185.141.61.130/logostv/fuel-tv.png" group-title="PORTUGAL",FUEL TV FHD
+http://burralb.xyz:8080/amibra/braami/108
+#EXTINF:-1 tvg-id="motorvision.pt" tvg-name="MOTORVISION FHD" tvg-logo="https://i0.wp.com/www.broadbandtvnews.com/wp-content/uploads/2015/10/Motorvision-TV.png" group-title="PORTUGAL",MOTORVISION FHD
+http://burralb.xyz:8080/amibra/braami/109
+#EXTINF:-1 tvg-id="pfc.pt" tvg-name="PFC" tvg-logo="http://185.141.61.130/logostv/pfc.png" group-title="PORTUGAL",PFC
+http://burralb.xyz:8080/amibra/braami/110
+#EXTINF:-1 tvg-id="kombatsport.pt" tvg-name="KOMBAT SPORT" tvg-logo="http://185.141.61.130/logostv/kombat-sport-hd.png" group-title="PORTUGAL",KOMBAT SPORT
+http://burralb.xyz:8080/amibra/braami/111
+#EXTINF:-1 tvg-id="cacaepesca.pt" tvg-name="CACA E PESCA" tvg-logo="http://185.141.61.130/logostv/caca-e-pesca.png" group-title="PORTUGAL",CACA E PESCA
+http://burralb.xyz:8080/amibra/braami/112
+#EXTINF:-1 tvg-id="cacavision.pt" tvg-name="CACAVISION" tvg-logo="http://185.141.61.130/logostv/cacavision.png" group-title="PORTUGAL",CACAVISION
+http://burralb.xyz:8080/amibra/braami/113
+#EXTINF:-1 tvg-id="tvcine1.pt" tvg-name="TVCine TOP FHD" tvg-logo="http://185.141.61.130/logostv/tvcine-top-hd.png" group-title="PORTUGAL",TVCine TOP FHD
+http://burralb.xyz:8080/amibra/braami/114
+#EXTINF:-1 tvg-id="tvcine1.pt" tvg-name="TVCine TOP SD" tvg-logo="http://185.141.61.130/logostv/tvcine-top-hd.png" group-title="PORTUGAL",TVCine TOP SD
+http://burralb.xyz:8080/amibra/braami/897
+#EXTINF:-1 tvg-id="tvcine2.pt" tvg-name="TVCine EDITION FHD" tvg-logo="http://185.141.61.130/logostv/tvcine-edition-hd.png" group-title="PORTUGAL",TVCine EDITION FHD
+http://burralb.xyz:8080/amibra/braami/115
+#EXTINF:-1 tvg-id="tvcine2.pt" tvg-name="TVCine EDITION SD" tvg-logo="http://185.141.61.130/logostv/tvcine-edition-hd.png" group-title="PORTUGAL",TVCine EDITION SD
+http://burralb.xyz:8080/amibra/braami/8457
+#EXTINF:-1 tvg-id="tvcine3.pt" tvg-name="TVCine EMOTION FHD" tvg-logo="http://185.141.61.130/logostv/tvcine-emotion-hd.png" group-title="PORTUGAL",TVCine EMOTION FHD
+http://burralb.xyz:8080/amibra/braami/116
+#EXTINF:-1 tvg-id="tvcine3.pt" tvg-name="TVCine EMOTION SD" tvg-logo="http://185.141.61.130/logostv/tvcine-emotion-hd.png" group-title="PORTUGAL",TVCine EMOTION SD
+http://burralb.xyz:8080/amibra/braami/8673
+#EXTINF:-1 tvg-id="tvcine4.pt" tvg-name="TVCine ACTION FHD" tvg-logo="http://185.141.61.130/logostv/tvcine-action-hd.png" group-title="PORTUGAL",TVCine ACTION FHD
+http://burralb.xyz:8080/amibra/braami/117
+#EXTINF:-1 tvg-id="tvcine4.pt" tvg-name="TVCine ACTION SD" tvg-logo="http://185.141.61.130/logostv/tvcine-action-hd.png" group-title="PORTUGAL",TVCine ACTION SD
+http://burralb.xyz:8080/amibra/braami/898
+#EXTINF:-1 tvg-id="nosstudioshd.pt" tvg-name="NOS STUDIOS FHD" tvg-logo="https://i0.wp.com/www.broadbandtvnews.com/wp-content/uploads/2019/06/NOS-Studios.png?ssl=1" group-title="PORTUGAL",NOS STUDIOS FHD
+http://burralb.xyz:8080/amibra/braami/118
+#EXTINF:-1 tvg-id="canalhollywood.pt" tvg-name="HOLLYWOOD FHD" tvg-logo="http://185.141.61.130/logostv/hollywood.png" group-title="PORTUGAL",HOLLYWOOD FHD
+http://burralb.xyz:8080/amibra/braami/119
+#EXTINF:-1 tvg-id="cinemundo.pt" tvg-name="CINEMUNDO FHD" tvg-logo="http://185.141.61.130/logostv/cinemundo-hd.png" group-title="PORTUGAL",CINEMUNDO FHD
+http://burralb.xyz:8080/amibra/braami/120
+#EXTINF:-1 tvg-id="foxmovies.pt" tvg-name="FOX MOVIES FHD" tvg-logo="http://185.141.61.130/logostv/fox-movies-hd.png" group-title="PORTUGAL",FOX MOVIES FHD
+http://burralb.xyz:8080/amibra/braami/121
+#EXTINF:-1 tvg-id="amchd.pt" tvg-name="AMC FHD" tvg-logo="http://185.141.61.130/logostv/amc-hd.png" group-title="PORTUGAL",AMC FHD
+http://burralb.xyz:8080/amibra/braami/123
+#EXTINF:-1 tvg-id="axn.pt" tvg-name="AXN [FHD]" tvg-logo="http://185.141.61.130/logostv/axn-hd.png" group-title="PORTUGAL",AXN [FHD]
+http://burralb.xyz:8080/amibra/braami/1644
+#EXTINF:-1 tvg-id="axn.pt" tvg-name="AXN SD" tvg-logo="http://185.141.61.130/logostv/axn-hd.png" group-title="PORTUGAL",AXN SD
+http://burralb.xyz:8080/amibra/braami/899
+#EXTINF:-1 tvg-id="axnblack.pt" tvg-name="AXN BLACK [FHD]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/AXN_Black_logo_%282015%29.svg/1200px-AXN_Black_logo_%282015%29.svg.png" group-title="PORTUGAL",AXN BLACK [FHD]
+http://burralb.xyz:8080/amibra/braami/2030
+#EXTINF:-1 tvg-id="axnblack.pt" tvg-name="AXN BLACK SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/AXN_Black_logo_%282015%29.svg/1200px-AXN_Black_logo_%282015%29.svg.png" group-title="PORTUGAL",AXN BLACK SD
+http://burralb.xyz:8080/amibra/braami/900
+#EXTINF:-1 tvg-id="axnwhite.pt" tvg-name="AXN WHITE HD [FHD]" tvg-logo="http://185.141.61.130/logostv/axn-white-hd.png" group-title="PORTUGAL",AXN WHITE HD [FHD]
+http://burralb.xyz:8080/amibra/braami/2028
+#EXTINF:-1 tvg-id="fox.pt" tvg-name="FOX FHD" tvg-logo="http://185.141.61.130/logostv/fox-hd.png" group-title="PORTUGAL",FOX FHD
+http://burralb.xyz:8080/amibra/braami/127
+#EXTINF:-1 tvg-id="fox.pt" tvg-name="FOX SD" tvg-logo="http://185.141.61.130/logostv/fox-hd.png" group-title="PORTUGAL",FOX SD
+http://burralb.xyz:8080/amibra/braami/901
+#EXTINF:-1 tvg-id="foxcrime.pt" tvg-name="FOX CRIME FHD" tvg-logo="http://185.141.61.130/logostv/fox-crime-hd.png" group-title="PORTUGAL",FOX CRIME FHD
+http://burralb.xyz:8080/amibra/braami/128
+#EXTINF:-1 tvg-id="foxcomedy.pt" tvg-name="FOX COMEDY FHD" tvg-logo="http://185.141.61.130/logostv/fox-comedy-hd.png" group-title="PORTUGAL",FOX COMEDY FHD
+http://burralb.xyz:8080/amibra/braami/129
+#EXTINF:-1 tvg-id="foxcomedy.pt" tvg-name="FOX COMEDY" tvg-logo="http://185.141.61.130/logostv/fox-comedy.png" group-title="PORTUGAL",FOX COMEDY
+http://burralb.xyz:8080/amibra/braami/1645
+#EXTINF:-1 tvg-id="foxlife.pt" tvg-name="FOX LIFE FHD" tvg-logo="http://185.141.61.130/logostv/fox-life-hd.png" group-title="PORTUGAL",FOX LIFE FHD
+http://burralb.xyz:8080/amibra/braami/130
+#EXTINF:-1 tvg-id="kuriakostv.pt" tvg-name="KURIAKOS CINE" tvg-logo="http://185.141.61.130/logostv/KURIAKOS_CINE.png" group-title="PORTUGAL",KURIAKOS CINE
+http://burralb.xyz:8080/amibra/braami/8667
+#EXTINF:-1 tvg-id="" tvg-name="KURIAKOS KIDS" tvg-logo="https://4.bp.blogspot.com/-LTqIzRhhBYE/XQAGxT5AB3I/AAAAAAAABB0/Uih_3IGEJtIyTisWutKyU_qbn75_rW0rACPcBGAYYCw/w1200-h630-p-k-no-nu/Screenshot_2019-06-11-16-51-42.png" group-title="PORTUGAL",KURIAKOS KIDS
+http://burralb.xyz:8080/amibra/braami/8668
+#EXTINF:-1 tvg-id="kuriakostv.pt" tvg-name="KURIAKOS TV" tvg-logo="http://185.141.61.130/logostv/kuriakos.png" group-title="PORTUGAL",KURIAKOS TV
+http://burralb.xyz:8080/amibra/braami/8671
+#EXTINF:-1 tvg-id="syfy.pt" tvg-name="SYFY FHD" tvg-logo="http://185.141.61.130/logostv/syfy-hd.png" group-title="PORTUGAL",SYFY FHD
+http://burralb.xyz:8080/amibra/braami/131
+#EXTINF:-1 tvg-id="historia.pt" tvg-name="HISTORIA" tvg-logo="http://185.141.61.130/logostv/historia.png" group-title="PORTUGAL",HISTORIA
+http://burralb.xyz:8080/amibra/braami/132
+#EXTINF:-1 tvg-id="blazehd.pt" tvg-name="BLAZE FHD" tvg-logo="http://185.141.61.130/logostv/blaze.png" group-title="PORTUGAL",BLAZE FHD
+http://burralb.xyz:8080/amibra/braami/133
+#EXTINF:-1 tvg-id="discoverychannel.pt" tvg-name="DISCOVERY CHANNEL FHD" tvg-logo="http://185.141.61.130/logostv/discovery-channel-hd.png" group-title="PORTUGAL",DISCOVERY CHANNEL FHD
+http://burralb.xyz:8080/amibra/braami/134
+#EXTINF:-1 tvg-id="nationalgeographic.pt" tvg-name="NATIONAL GEOGRAPHIC FHD" tvg-logo="http://185.141.61.130/logostv/national-geographic-channel-hd.png" group-title="PORTUGAL",NATIONAL GEOGRAPHIC FHD
+http://burralb.xyz:8080/amibra/braami/135
+#EXTINF:-1 tvg-id="nationalgeographicwild.pt" tvg-name="NATIONAL GEOGRAPHIC WILD [FHD]" tvg-logo="http://185.141.61.130/logostv/nat-geo-wild-hd.png" group-title="PORTUGAL",NATIONAL GEOGRAPHIC WILD [FHD]
+http://burralb.xyz:8080/amibra/braami/136
+#EXTINF:-1 tvg-id="odisseia.pt" tvg-name="ODISSEIA [FHD]" tvg-logo="http://185.141.61.130/logostv/odisseia-hd.png" group-title="PORTUGAL",ODISSEIA [FHD]
+http://burralb.xyz:8080/amibra/braami/137
+#EXTINF:-1 tvg-id="" tvg-name="ID INVESTIGATION DISCOVERY FHD" tvg-logo="http://185.141.61.130/logostv/investigation-discovery-television-show-logo-television-channel-png-favpng-10MJF99P5kEgr2ReyS5qBSrNJ.jpg" group-title="PORTUGAL",ID INVESTIGATION DISCOVERY FHD
+http://burralb.xyz:8080/amibra/braami/138
+#EXTINF:-1 tvg-id="crimeinvestigation.pt" tvg-name="CRIME INVESTIGATION" tvg-logo="http://185.141.61.130/logostv/crime_investigation.png" group-title="PORTUGAL",CRIME INVESTIGATION
+http://burralb.xyz:8080/amibra/braami/139
+#EXTINF:-1 tvg-id="sick.pt" tvg-name="SIC-K HD" tvg-logo="http://185.141.61.130/logostv/sic-k-hd.png" group-title="PORTUGAL",SIC-K HD
+http://burralb.xyz:8080/amibra/braami/140
+#EXTINF:-1 tvg-id="babyfirsttv.pt" tvg-name="BABY TV" tvg-logo="http://185.141.61.130/logostv/baby-tv.png" group-title="PORTUGAL",BABY TV
+http://burralb.xyz:8080/amibra/braami/141
+#EXTINF:-1 tvg-id="jimjam.pt" tvg-name="JIM JAM" tvg-logo="http://185.141.61.130/logostv/jimjam.png" group-title="PORTUGAL",JIM JAM
+http://burralb.xyz:8080/amibra/braami/142
+#EXTINF:-1 tvg-id="nickelodeon.pt" tvg-name="NICK JR" tvg-logo="http://185.141.61.130/logostv/nick%20jr.jpg" group-title="PORTUGAL",NICK JR
+http://burralb.xyz:8080/amibra/braami/143
+#EXTINF:-1 tvg-id="nickelodeon.pt" tvg-name="NICKELODEON" tvg-logo="http://185.141.61.130/logostv/nickelodeon.png" group-title="PORTUGAL",NICKELODEON
+http://burralb.xyz:8080/amibra/braami/144
+#EXTINF:-1 tvg-id="disneychannel.pt" tvg-name="DISNEY CHANNEL" tvg-logo="http://185.141.61.130/logostv/disney-channel.png" group-title="PORTUGAL",DISNEY CHANNEL
+http://burralb.xyz:8080/amibra/braami/145
+#EXTINF:-1 tvg-id="disneyjunior.pt" tvg-name="DISNEY JUNIOR" tvg-logo="http://185.141.61.130/logostv/disney-junior.png" group-title="PORTUGAL",DISNEY JUNIOR
+http://burralb.xyz:8080/amibra/braami/146
+#EXTINF:-1 tvg-id="cartoonnetwork.pt" tvg-name="CARTOON NETWORK" tvg-logo="http://185.141.61.130/logostv/cartoon-network.png" group-title="PORTUGAL",CARTOON NETWORK
+http://burralb.xyz:8080/amibra/braami/147
+#EXTINF:-1 tvg-id="panda.pt" tvg-name="PANDA" tvg-logo="http://185.141.61.130/logostv/panda.png" group-title="PORTUGAL",PANDA
+http://burralb.xyz:8080/amibra/braami/148
+#EXTINF:-1 tvg-id="biggs.pt" tvg-name="PANDA BIGGS" tvg-logo="http://185.141.61.130/logostv/biggs.png" group-title="PORTUGAL",PANDA BIGGS
+http://burralb.xyz:8080/amibra/braami/149
+#EXTINF:-1 tvg-id="" tvg-name="Boomerang" tvg-logo="http://185.141.61.130/logostv/boomerang.png" group-title="PORTUGAL",Boomerang
+http://burralb.xyz:8080/amibra/braami/9103
+#EXTINF:-1 tvg-id="" tvg-name="FASHION TV-FHD" tvg-logo="http://185.141.61.130/logostv/ftv-hd.png" group-title="PORTUGAL",FASHION TV-FHD
+http://burralb.xyz:8080/amibra/braami/893
+#EXTINF:-1 tvg-id="vh1.pt" tvg-name="VH1 HD" tvg-logo="http://185.141.61.130/logostv/vh1.png" group-title="PORTUGAL",VH1 HD
+http://burralb.xyz:8080/amibra/braami/280
+#EXTINF:-1 tvg-id="mtv.pt" tvg-name="MTV PORTUGAL" tvg-logo="http://185.141.61.130/logostv/mtv-portugal-hd.png" group-title="PORTUGAL",MTV PORTUGAL
+http://burralb.xyz:8080/amibra/braami/150
+#EXTINF:-1 tvg-id="afromusicchannel.pt" tvg-name="AFRO MUSIC" tvg-logo="http://185.141.61.130/logostv/afro-music.png" group-title="PORTUGAL",AFRO MUSIC
+http://burralb.xyz:8080/amibra/braami/891
+#EXTINF:-1 tvg-id="" tvg-name="MCM POP" tvg-logo="http://185.141.61.130/logostv/mcm-pop.png" group-title="PORTUGAL",MCM POP
+http://burralb.xyz:8080/amibra/braami/895
+#EXTINF:-1 tvg-id="traceurban.pt" tvg-name="TRACE URBAN FHD" tvg-logo="http://185.141.61.130/logostv/trace-urban-hd.png" group-title="PORTUGAL",TRACE URBAN FHD
+http://burralb.xyz:8080/amibra/braami/896
+#EXTINF:-1 tvg-id="cbsreality.pt" tvg-name="CBS REALITY" tvg-logo="http://185.141.61.130/logostv/cbs-reality.png" group-title="PORTUGAL",CBS REALITY
+http://burralb.xyz:8080/amibra/braami/892
+#EXTINF:-1 tvg-id="tpainternational.pt" tvg-name="TPA" tvg-logo="http://185.141.61.130/logostv/tpa-internacional.png" group-title="PORTUGAL",TPA
+http://burralb.xyz:8080/amibra/braami/904
+#EXTINF:-1 tvg-id="" tvg-name="VH1 Classic " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/VH1_Classic_UK.svg/1024px-VH1_Classic_UK.svg.png" group-title="PORTUGAL",VH1 Classic 
